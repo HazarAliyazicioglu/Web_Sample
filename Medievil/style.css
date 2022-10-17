@@ -1,0 +1,212 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+
+    background-image: url(./img/m1.jpg) ;
+    background-repeat: no-repeat ;
+    background-position: cover ;
+    background-size: 100% 100% ;
+
+}
+
+#body{
+
+    background-color: rgb(0, 0, 0);
+    border: 4px none black ;
+    margin: 30px auto 50px auto;
+    width: 1000px;
+    height: 1600px;
+
+}
+
+#banner{
+    
+    height: 100px;
+    width: 1000px;
+    border: 0px none rgb(255, 255, 255) ;
+    margin:auto;
+    background-color: rgb(255, 255, 255);
+}
+
+
+#anabaslık{
+
+    background-color: rgb(255, 255, 255);
+    border: 1px none rgb(0, 0, 0) ;
+    width: 700px;
+    height: 100px;
+    top: 0px;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+
+#baslık{
+    font-size: 400% ;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:10px;
+    margin-right: 20px;
+    color:rgb(0, 0, 0);
+
+}
+
+#sosyal{
+
+    background-color: rgb(255, 255, 255);
+    border: 1px none black ;
+    position: relative;
+    float: right;
+    top: 27px;
+   
+    width: 200px;
+    height: 73px;
+}
+
+.icon img{
+    max-height:1.5em;
+    max-width: 1.3em;
+    position: relative;
+    float:right;
+    top: 11px;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#menu {
+    width: 1000px;
+    height: 60px;
+    background-color:rgb(27, 26, 26);
+    margin-bottom:auto;
+    border-style: none;
+    border-color: red;
+
+}
+
+nav h1{
+
+    float: left;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+    position:relative;
+    top: 15px;
+    left: 10px;
+    margin-left: 30px;
+    background-image: url(./img/m1.jpg);
+}
+
+nav h1 a:link{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
+nav h1 a:hover{
+
+    color: rgb(128, 68, 0);
+    text-decoration: none;
+
+}
+
+nav h1 a:visited{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
+nav h1 a:active{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
+#icerik{
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    width: 700px;
+    height:1200px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    
+}
+
+#video{
+
+    position: relative;
+    bottom: -30px;
+
+}
+
+#yan_menu{
+
+    border-radius: 0;
+    border-width: 0 0 0 2px;
+    border-style: none none none solid;
+    border-color: rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    width: 297px;
+    height:1200px;
+    float: right;
+    color: white;
+}
+
+#yan_menu ul{
+
+    position: relative;
+    float: left;
+    left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+footer{
+
+    width: 1000px;
+    height: 240px;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+footer p a:link{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
+footer p a:hover{
+
+    color: rgb(128, 68, 0);
+    text-decoration: none;
+
+}
+
+footer p a:visited{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
+footer p a:active{
+
+    color: rgb(219, 117, 0);
+    text-decoration: none;
+
+}
+
